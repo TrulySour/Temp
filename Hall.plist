@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>https://download.trulysour.cf:8080/QATestServer/ios/Hall.ipa</string>
+<string>http://download.trulysour.cf:8080/QATestServer/ios/Hall.ipa</string>
 </dict>
 </array>
 <key>metadata</key>
